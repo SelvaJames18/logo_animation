@@ -18,16 +18,16 @@ body {
 
 .group-1 {
   width: 126px;
-  height: 35px;
-  top: 190px;
+  height: 40px;
+  top: 225px;
   position: absolute;
 }
 
 .group-2 {
   width: 30px;
-  height: 84px;
+  height: 86px;
   position: absolute;
-  top: 110px;
+  top: 145px;
   animation: antennaVibe 1s ease-in-out infinite;
   transform-origin: bottom center;
 }
