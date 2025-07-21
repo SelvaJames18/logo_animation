@@ -50,12 +50,12 @@ body {
 .eye-frame {
   width: 110px;
   position: absolute;
-  top: 38.5%;
+  top: 40%;
 }
 
 .eye-wrap {
   position: absolute;
-  top: 39.5%;
+  top: 41%;
   display: flex;
   justify-content: center;
   align-items: center;
