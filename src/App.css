@@ -15,10 +15,11 @@ body {
   align-items: center;
 }
 
+
 .group-1 {
   width: 126px;
   height: 35px;
-  top: 160px;
+  top: 190px;
   position: absolute;
 }
 
@@ -26,7 +27,7 @@ body {
   width: 30px;
   height: 84px;
   position: absolute;
-  top: 82px;
+  top: 110px;
   animation: antennaVibe 1s ease-in-out infinite;
   transform-origin: bottom center;
 }
