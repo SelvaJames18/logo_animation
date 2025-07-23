@@ -93,6 +93,8 @@ body {
   animation: blink 4s infinite, pulse-glow 6s ease-in-out infinite;
   transform-origin: center;
   transition: transform 0.1s linear;
+  will-change: transform;
+
 }
 
 .left-little-eye,
